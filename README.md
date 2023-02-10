@@ -10,3 +10,8 @@
 - 2007/9 - Present Fastenal
 - 2015/10 - 2007/9 Grapecity(Shanghai)
 - 2004/7 - 2005/9 Hainan Airlines
+
+**Projects**
+1. RFQ
+2. VAT Invoicing
+3. SharePoint Site
